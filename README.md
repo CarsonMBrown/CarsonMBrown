@@ -1,4 +1,10 @@
-### Hi there 👋
+# Links
+
+## [LinkedIn](https://www.linkedin.com/in/carson-m-brown/)
+## [Email](mailto:carson.mattox@gmail.com)
+## [Résumé](https://drive.google.com/file/d/10TAHnDrL2GU9Td1HtAVgZhIFvhIrZqoB/view?usp=sharing)
+
+
 
 <!--
 **CarsonMBrown/CarsonMBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
