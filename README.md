@@ -3,8 +3,7 @@
 #### [LinkedIn](https://www.linkedin.com/in/carson-m-brown/)
 #### [Email](mailto:carson.mattox@gmail.com)
 #### [Résumé](https://drive.google.com/file/d/10TAHnDrL2GU9Td1HtAVgZhIFvhIrZqoB/view?usp=sharing)
-#### [Master's Thesis](
-https://raw.githubusercontent.com/CarsonMBrown/glyphs/main/AutomatedOpticalDetectionAndRecognitionOfGreekLettersOnDegradedPapyri.pdf)
+#### [Master's Thesis](https://raw.githubusercontent.com/CarsonMBrown/glyphs/main/AutomatedOpticalDetectionAndRecognitionOfGreekLettersOnDegradedPapyri.pdf)
 
 
 <!--
